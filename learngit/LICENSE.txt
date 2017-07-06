@@ -1,0 +1,2 @@
+LICENCE
+work directory, git has a mutable index called stage.
